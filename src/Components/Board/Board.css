@@ -45,9 +45,9 @@
 }
 
 .board_cards {
-  background-color: #f8f8f8;
+  background-color: #e6e3e3;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 3px;
   display: flex;
   flex-direction: column;
   gap: 10px;
