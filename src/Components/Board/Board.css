@@ -1,4 +1,5 @@
 .board {
+  
   min-width: 290px;
   width: 290px;
   max-height: 100%;
@@ -15,6 +16,7 @@
 }
 
 .board_header_title {
+  color: white;
   font-weight: bold;
   font-size: 1rem;
   display: flex;
@@ -23,7 +25,7 @@
 }
 
 .board_header_title span {
-  color: rgb(145, 145, 145);
+  color: rgb(243, 240, 240);
 }
 
 .board_header_title_more {
