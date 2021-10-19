@@ -17,6 +17,8 @@
   height: 100vh;
   display: flex;
   flex-direction: column;
+  background: url("https://cdna.artstation.com/p/assets/images/images/030/999/038/original/marlo-farrell-desert-night-scene1.gif?1602269564");
+  background-size: cover;
 }
 
 .app_nav {
@@ -25,7 +27,8 @@
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   position: sticky;
   top: 0;
-  background-color: #fff;
+  background: url("https://cdna.artstation.com/p/assets/images/images/030/999/038/original/marlo-farrell-desert-night-scene1.gif?1602269564");
+  background-size: cover;
 }
 
 .app_boards_container {
