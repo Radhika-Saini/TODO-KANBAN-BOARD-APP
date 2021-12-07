@@ -1,4 +1,4 @@
-## OUTPUT - todo-kanban-board-app.netlify.app/
+## OUTPUT - https://todo-kanban-board-app.netlify.app/
 
 # Getting Started with Create React App
 
